@@ -1,0 +1,3 @@
+﻿  Task6.cpp
+C:\Users\jarra\Documents\CS103 Practicle\Task6\Task6\Task6.cpp(72,14): warning C4101: 'arr': unreferenced local variable
+  Task6.vcxproj -> C:\Users\jarra\Documents\CS103 Practicle\Task6\x64\Debug\Task6.exe

@@ -1,0 +1,8 @@
+﻿  Task5.cpp
+C:\Users\jarra\Documents\CS103 Practicle\Task5\Task5\Task5.cpp(126,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jarra\Documents\CS103 Practicle\Task5\Task5\Task5.cpp(154,15): warning C4552: '+': result of expression not used
+C:\Users\jarra\Documents\CS103 Practicle\Task5\Task5\Task5.cpp(162,15): warning C4552: '+': result of expression not used
+C:\Users\jarra\Documents\CS103 Practicle\Task5\Task5\Task5.cpp(166,15): warning C4552: '+': result of expression not used
+C:\Users\jarra\Documents\CS103 Practicle\Task5\Task5\Task5.cpp(178,9): warning C4101: 'height': unreferenced local variable
+C:\Users\jarra\Documents\CS103 Practicle\Task5\Task5\Task5.cpp(178,17): warning C4101: 'width': unreferenced local variable
+  Task5.vcxproj -> C:\Users\jarra\Documents\CS103 Practicle\Task5\x64\Debug\Task5.exe
